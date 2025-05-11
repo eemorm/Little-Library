@@ -1,0 +1,100 @@
+LB0000: Pride and Prejudice - Jane Austen
+LB0001: 1984 - George Orwell
+LB0002: The Great Gatsby - F. Scott Fitzgerald
+LB0003: Don Quixote - Miguel de Cervantes
+LB0004: The Lord of the Rings - J.R.R. Tolkien
+LB0005: To Kill a Mockingbird - Harper Lee
+LB0006: Brave New World - Aldous Huxley
+LB0007: The Catcher in the Rye - J.D. Salinger
+LB0008: Jane Eyre - Charlotte Bronte
+LB0009: The Hobbit - J.R.R. Tolkien
+LB0010: Fahrenheit 451 - Ray Bradbury
+LB0011: One Hundred Years of Solitude - Gabriel Garcia Marquez
+LB0012: The Odyssey - Homer
+LB0013: Crime and Punishment - Fyodor Dostoevsky
+LB0014: The Brothers Karamazov - Fyodor Dostoevsky
+LB0015: War and Peace - Leo Tolstoy
+LB0016: Anna Karenina - Leo Tolstoy
+LB0017: Les Miserables - Victor Hugo
+LB0018: The Count of Monte Cristo - Alexandre Dumas
+LB0019: The Three Musketeers - Alexandre Dumas
+LB0020: Moby Dick - Herman Melville
+LB0021: Little Women - Louisa May Alcott
+LB0022: Dracula - Bram Stoker
+LB0023: Frankenstein - Mary Shelley
+LB0024: The Picture of Dorian Gray - Oscar Wilde
+LB0025: The Adventures of Sherlock Holmes - Arthur Conan Doyle
+LB0026: The Canterbury Tales - Geoffrey Chaucer
+LB0027: Paradise Lost - John Milton
+LB0028: The Divine Comedy - Dante Alighieri
+LB0029: Wuthering Heights - Emily Bronte
+LB0030: The Scarlet Letter - Nathaniel Hawthorne
+LB0031: The Adventures of Huckleberry Finn - Mark Twain
+LB0032: The Adventures of Tom Sawyer - Mark Twain
+LB0033: Heart of Darkness - Joseph Conrad
+LB0034: Lord of the Flies - William Golding
+LB0035: Animal Farm - George Orwell
+LB0036: The Grapes of Wrath - John Steinbeck
+LB0037: Of Mice and Men - John Steinbeck
+LB0038: East of Eden - John Steinbeck
+LB0039: The Old Man and the Sea - Ernest Hemingway
+LB0040: For Whom the Bell Tolls - Ernest Hemingway
+LB0041: A Farewell to Arms - Ernest Hemingway
+LB0042: The Sun Also Rises - Ernest Hemingway
+LB0043: Catch-22 - Joseph Heller
+LB0044: Slaughterhouse-Five - Kurt Vonnegut
+LB0045: The Bell Jar - Sylvia Plath
+LB0046: One Flew Over the Cuckoo's Nest - Ken Kesey
+LB0047: On the Road - Jack Kerouac
+LB0048: Great Expectations - Charles Dickens
+LB0049: A Tale of Two Cities - Charles Dickens
+LB0050: The Secret Garden - Frances Hodgson Burnett
+LB0051: A Clockwork Orange - Anthony Burgess
+LB0052: The Road - Cormac McCarthy
+LB0053: The Stand - Stephen King
+LB0054: The Hunger Games - Suzanne Collins
+LB0055: Harry Potter and the Sorcerer's Stone - J.K. Rowling
+LB0056: The Maze Runner - James Dashner
+LB0057: The Fault in Our Stars - John Green
+LB0058: Divergent - Veronica Roth
+LB0059: The Alchemist - Paulo Coelho
+LB0060: The Book Thief - Markus Zusak
+LB0061: The Perks of Being a Wallflower - Stephen Chbosky
+LB0062: The Girl on the Train - Paula Hawkins
+LB0063: A Game of Thrones - George R.R. Martin
+LB0064: The Night Circus - Erin Morgenstern
+LB0065: The Hate U Give - Angie Thomas
+LB0066: The Goldfinch - Donna Tartt
+LB0067: The Giver - Lois Lowry
+LB0068: The Little Prince - Antoine de Saint-Exupéry
+LB0069: The Handmaid's Tale - Margaret Atwood
+LB0070: The Outsiders - S.E. Hinton
+LB0071: It - Stephen King
+LB0072: The Light Between Oceans - M.L. Stedman
+LB0073: The Invisible Man - H.G. Wells
+LB0074: The Woman in White - Wilkie Collins
+LB0075: American Gods - Neil Gaiman
+LB0076: The Martian - Andy Weir
+LB0077: Dune - Frank Herbert
+LB0078: The Chronicles of Narnia - C.S. Lewis
+LB0079: Ready Player One - Ernest Cline
+LB0080: The Name of the Wind - Patrick Rothfuss
+LB0081: The Girl with the Dragon Tattoo - Stieg Larsson
+LB0082: The Kite Runner - Khaled Hosseini
+LB0083: The Color Purple - Alice Walker
+LB0084: The Secret History - Donna Tartt
+LB0085: Station Eleven - Emily St. John Mandel
+LB0086: The Night Manager - John le Carré
+LB0087: Cloud Atlas - David Mitchell
+LB0088: The Glass Castle - Jeannette Walls
+LB0089: The Help - Kathryn Stockett
+LB0090: Life of Pi - Yann Martel
+LB0091: The Road Less Traveled - M. Scott Peck
+LB0092: The Underground Railroad - Colson Whitehead
+LB0093: The Tattooist of Auschwitz - Heather Morris
+LB0094: The Silent Patient - Alex Michaelides
+LB0095: The Song of Achilles - Madeline Miller
+LB0096: Circe - Madeline Miller
+LB0097: The Five People You Meet in Heaven - Mitch Albom
+LB0098: The Woman in the Window - A.J. Finn
+LB0099: The Family Upstairs - Lisa Jewell
